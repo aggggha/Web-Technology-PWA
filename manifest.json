@@ -1,0 +1,16 @@
+{
+    "name": "Web Technology Guidebook",
+    "short_name": "Web Techies",
+    "description": "Mempelajari tentang dasar Web Technology",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#42a5f5",
+    "theme_color": "#42a5f5",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

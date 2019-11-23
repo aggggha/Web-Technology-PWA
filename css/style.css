@@ -1,0 +1,16 @@
+.sidenav .collapsible-header {
+    padding: 0 0 0 32px;
+}
+.sidenav .collapsible-body > ul > li > a {
+    padding: 0 48px;
+}
+nav ul {
+    margin-top: -2px;
+}
+nav .brand-logo {
+    width: 200px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 18px;
+}
